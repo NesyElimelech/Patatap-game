@@ -1,4 +1,4 @@
-# Patatape-game
+# Patatap-game
 A full JavaScript game - play a sound on each keypress 
 
 # How to play:
